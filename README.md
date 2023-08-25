@@ -19,5 +19,5 @@ Database schema:
 Solutions: The solution_presentation.pptx file contains the solutions code and results along with each ad-hoc request.
 
 Preview of solution code:
-![10th request]([https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/assets/103556640/b06701cc-69aa-46c9-8f63-f0e05420354d](https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/blob/master/Data/10th%20request.jpg)https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/blob/master/Data/10th%20request.jpg)
+![10th request](https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/assets/103556640/b06701cc-69aa-46c9-8f63-f0e05420354d](https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/blob/master/Data/10th%20request.jpg)https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/blob/master/Data/10th%20request.jpg](https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/blob/master/Data/10th%20request.jpg)https://github.com/Anni0223/SQL-Project-AtliQ_ad-hoc_insights-/blob/master/Data/10th%20request.jpg)
 
